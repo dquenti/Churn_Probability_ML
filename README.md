@@ -36,10 +36,6 @@ The goal of this project is to build and evaluate machine learning models that c
 - Exploring feature engineering to improve model performance.
 - Applying the models to different datasets or industries.
 
-## Contributing
-
-We welcome contributions from the community. If you have any suggestions, bug reports, or improvements, please open an issue or submit a pull request.
-
 ## Contact
 
 For any questions or inquiries, please contact:
